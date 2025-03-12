@@ -24,9 +24,9 @@
 
 ### 📌 Highlights:
 
-- 🏷️ **Athletic System Management:** Developed a web system for managing athletic organizations, incorporating database triggers and graph theory for rankings.
-- 🚗 **Bachelor's Thesis Project:** Built an MVP for parking space reservations using Hexagonal Architecture and non-relational databases.
-- 🌳 **Pandemic Diseases:** Worked on mapping and predicting disease-related deaths in Brazil using data mining techniques.
+- 🏷️ [**Athletic System Management:**](https://github.com/Pecas-Projects/back-atletica) Developed a web system for managing athletic organizations, incorporating database triggers and graph theory for rankings.
+- 🚗 [**Bachelor's Thesis Project:**](https://github.com/DreamTeamJOJO/theoprax_backend) Built an MVP for parking space reservations using Hexagonal Architecture and non-relational databases.
+- 🌳 [**Pandemic Diseases:**](https://github.com/fernandanlisboa/DataMiningPI) Worked on mapping and predicting disease-related deaths in Brazil using data mining techniques.
 
 ---
 
