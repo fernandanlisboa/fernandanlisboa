@@ -1,14 +1,5 @@
-<table>
-  <tr>
-    <td>
-      <h3>Hi there! I'm Fernanda 👋</h3>
-      <p>🌟 I'm an undergraduate student at SENAI CIMATEC University, Salvador, Brazil. Currently, I'm studying Computer Engineering and looking to expand my skills in Machine Learning Operations, diving deeper into software architectures.</p>
-    </td>
-    <td>
-      <img src="https://github.com/fernandanlisboa/profile-photo.png" width="150" style="border-radius: 50%;" />
-    </td>
-  </tr>
-</table>
+<h3>Hi there! I'm Fernanda 👋</h3>
+<p>🌟 I'm an undergraduate student at SENAI CIMATEC University, Salvador, Brazil. Currently, I'm studying Computer Engineering and looking to expand my skills in Machine Learning Operations, diving deeper into software architectures.</p>
 
 ---
 
