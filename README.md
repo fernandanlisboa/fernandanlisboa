@@ -46,8 +46,11 @@
 ### 📊 GitHub Statistics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandanlisboa&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandanlisboa&show_icons=true&theme=radical" height="163px" />
+  <span style="margin: 50 px;"></span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandanlisboa&layout=compact&langs_count=6&theme=radical"  />
 </p>
+
 
 ---
 
