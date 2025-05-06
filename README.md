@@ -37,9 +37,9 @@
 ---
 
 ### 📚 What I'm Learning Now:
-- **MLOps** – CI/CD for Machine Learning, Kubeflow, Model Deployment
-- **Cloud Computing** – AWS, GCP, Docker for AI models
-- **Advanced Software Architecture** – Hexagonal, Clean Architecture, Event-Driven
+- **Data Engineering** – Bootcamp using Python for data engineering
+- **Data analytics** – BigQuery, Google Sheets, PowerBI, SQL
+- **Software Engineering** – DevSecOps, Tests, Software Architectures
 
 ---
 
