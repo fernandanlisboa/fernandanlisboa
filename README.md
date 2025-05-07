@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
 </p>
 
-#### 🧠 Aprendizagem de Máquina:
+#### 🧠 Machine Learning:
 <p align="center">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
