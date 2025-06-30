@@ -56,8 +56,8 @@
 ---
 
 ### 📚 What I'm Learning Now:
-- **Data Engineering** – Bootcamp using Python for data engineering
 - **Data analytics** – BigQuery, Google Sheets, PowerBI, SQL
+- **Artificial Intelligence** - Generative AI, Agents, LangChain, LangGraph
 - **Software Engineering** – DevSecOps, Tests, Software Architectures
 
 ---
