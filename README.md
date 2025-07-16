@@ -57,8 +57,8 @@
 
 ### 📚 What I'm Learning Now:
 - **Data analytics** – BigQuery, Google Sheets, PowerBI, SQL
-- **Artificial Intelligence** - Generative AI, Agents, LangChain, LangGraph
-- **Software Engineering** – DevSecOps, Tests, Software Architectures
+- **Artificial Intelligence** - Generative AI, Agents, Prompts, LangChain, HuggingFace
+- **Software Engineering** – DevSecOps, Continuous Deployment, Terraform, Tekton
 
 ---
 
