@@ -29,14 +29,23 @@
   <img src="https://img.shields.io/badge/MLflow-0098BD?style=flat-square&logo=mlflow&logoColor=white" />
 </p>
 
+#### AI Tools:
+<p align="center">
+<img src="https://img.shields.io/badge/-LangChain-009A18?style=flat-square&logo=langchain&logoColor=white" />
+</p>
+
 #### 🛠️ DevOps:
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tekton-EE0000?style=flat-square&logo=tekton&logoColor=white" />
+  
 </p>
 
 #### 📋 Project Management:
@@ -44,6 +53,7 @@
     <img src="https://img.shields.io/badge/GitHub%20Projects-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20Boards-0078D4?style=flat-square&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 </p>
 ---
 
@@ -52,6 +62,7 @@
 - 🏆 [**Athletic System Management:**](https://github.com/Pecas-Projects/back-atletica) – Built a **complete web system** for managing athletic organizations. Implemented **database triggers** for automation and **graph theory** to create an advanced ranking system.
 - 🚗 [**Bachelor's Thesis Project:**](https://github.com/DreamTeamJOJO/theoprax_backend) – Developed an MVP for **parking space reservations** using **Hexagonal Architecture** and **non-relational databases** to improve scalability.
 - 🌳 [**Pandemic Diseases Analysis:**](https://github.com/fernandanlisboa/DataMiningPI) – Mapped and predicted disease-related deaths in Brazil using **data mining techniques**, identifying key trends in public health data.
+- [**Artisan API Platform**](https://github.com/fernandanlisboa/artisan-platform) - FastAPI for ednpoints of an Artisan Platform, using **Layered Architecture**, ORM database, TDD with unit, api and integration tests.
 
 ---
 
