@@ -93,7 +93,7 @@
   <a href="https://www.kaggle.com/fernandalisboa">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" />
   </a>
-  <a href="[URL_DO_PORTFOLIO](https://fernandanlisboa.github.io/)">
+  <a href="https://fernandanlisboa.github.io/">
     <img src="https://img.shields.io/badge/-Portf%C3%B3lio-black?style=flat-square&logo=react&logoColor=white" />
   </a>
 </p>
