@@ -1,75 +1,52 @@
 ### Hi there! I'm Fernanda 👋
 
-👩‍💻 Hi! I'm Fernanda, a Computer Engineering student passionate about **Machine Learning Operations (MLOps)** and **Software Architectures**. I love solving complex problems, optimizing models, and building scalable systems. 🚀  
+👩‍💻 I'm an **AI & Machine Learning Engineer** focused on bridging the gap between advanced mathematical modeling and scalable software delivery. With experience in applied industrial R&D (Ford, Fraunhofer, HP), I specialize in architecting **MLOps pipelines, Generative AI (RAG/Agents), and Edge Computer Vision**. 🚀  
 
 ---
 
-### 🚀 Tech and Tools:
+### 🚀 Tech Stack & Tooling:
 
-#### 🔥 Data:
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-5A9BD4?style=flat-square&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
-</p>
-
-#### 🧠 Machine Learning:
+#### 🧠 AI & Machine Learning:
 <p align="center">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/-LangChain-009A18?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFC000?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/MLflow-0098BD?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
 </p>
 
-#### AI Tools:
+#### 🛠️ MLOps & Cloud Infrastructure:
 <p align="center">
-<img src="https://img.shields.io/badge/-LangChain-009A18?style=flat-square&logo=langchain&logoColor=white" />
-</p>
-
-#### 🛠️ DevOps:
-<p align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tekton-EE0000?style=flat-square&logo=tekton&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0098BD?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitFlow-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-#### 📋 Project Management:
+#### ⚙️ Data Engineering & Backend:
 <p align="center">
-    <img src="https://img.shields.io/badge/GitHub%20Projects-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Boards-0078D4?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-11557C?style=flat-square&logo=database&logoColor=white" />
 </p>
----
-
-### 📌 Highlights:
-
-- 🏆 [**Athletic System Management:**](https://github.com/Pecas-Projects/back-atletica) – Built a **complete web system** for managing athletic organizations. Implemented **database triggers** for automation and **graph theory** to create an advanced ranking system.
-- 🚗 [**Bachelor's Thesis Project:**](https://github.com/DreamTeamJOJO/theoprax_backend) – Developed an MVP for **parking space reservations** using **Hexagonal Architecture** and **non-relational databases** to improve scalability.
-- 🌳 [**Pandemic Diseases Analysis:**](https://github.com/fernandanlisboa/DataMiningPI) – Mapped and predicted disease-related deaths in Brazil using **data mining techniques**, identifying key trends in public health data.
-- [**Artisan API Platform**](https://github.com/fernandanlisboa/artisan-platform) - FastAPI for ednpoints of an Artisan Platform, using **Layered Architecture**, ORM database, TDD with unit, api and integration tests.
 
 ---
 
-### 📚 What I'm Learning Now:
-- **Data analytics** – BigQuery, Google Sheets, PowerBI, SQL
-- **Artificial Intelligence** - Generative AI, Agents, Prompts, LangChain, HuggingFace
-- **Software Engineering** – DevSecOps, Continuous Deployment, Terraform, Tekton
+### 📌 Featured Architectural Projects:
+
+
+- 🏗️ **[Artisan API Platform](https://github.com/fernandanlisboa/artisan-platform)** – Robust backend built with FastAPI using Layered Architecture, ORM, and comprehensive TDD (unit, API, and integration tests).
+- **[Hexagonal Example](https://github.com/fernandanlisboa/supermercado_arquitetura_hexagonal)** - Simple project to test and to example a Hexagonal Architecture Application with Python.
+---
+
+### 📚 Current R&D Focus:
+- **Advanced GenAI Architectures:** Orchestrating autonomous agents and multi-step reasoning workflows.
+- **Enterprise MLOps:** Zero-downtime model serving and automated CI/CD pipelines.
 
 ---
 
@@ -81,10 +58,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandanlisboa&layout=compact&langs_count=6&theme=radical"  />
 </p>
 
-
 ---
 
-### 🌍 Connect with me:
+### 🌍 Let's Connect:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernandanlisboa/">
@@ -94,10 +70,8 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" />
   </a>
   <a href="https://fernandanlisboa.github.io/">
-    <img src="https://img.shields.io/badge/-Portf%C3%B3lio-black?style=flat-square&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white" />
   </a>
 </p>
 
----
-
-💡 Always open to new opportunities and collaborations! Let's connect! 😃
+💡 Always open to discussing MLOps, AI architectures, and data-driven solutions! Let's connect! 😃
